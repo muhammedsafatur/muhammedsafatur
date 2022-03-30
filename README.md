@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **msafatur@outlook.com**
 
-- ⚡ Fun fact **I think im kinda funny and i have a nice voice.**
+- ⚡ Fun fact **I think im kinda funny and i love singing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
