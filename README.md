@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-  <img height="200" src="https://media.tenor.com/h76xDydx4-gAAAAd/kurtlar-vadisi-pala-sadece%C3%B6l%C3%BCler-g%C3%B6r%C3%BCr.gif"  />
+  
 </div>
 
 ###
