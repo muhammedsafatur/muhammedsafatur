@@ -59,12 +59,7 @@ I'm a **Computer Engineer** and **Full Stack Developer** specializing in buildin
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammedsafatur&show_icons=true&theme=radical" alt="muhammedsafatur" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsafatur&layout=compact&theme=radical&hide=html,css" alt="muhammedsafatur" />
-</p>
 
 ---
 
