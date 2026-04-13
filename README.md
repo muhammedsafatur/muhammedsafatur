@@ -42,13 +42,13 @@ I'm a **Computer Engineer** and **Full Stack Developer** specializing in buildin
 > *An integrated e-commerce solution with real-time inventory synchronization.*
 
 * **Architecture:** Centralized **Firebase** database syncing data between Desktop (Admin) and Web (Client).
-* **Armesa Home (Web):** Modern e-commerce interface built with **React & TypeScript**. [Live Demo](https://armesahome.netlify.app/)
-* **StockMaster (Admin):** Inventory management dashboard for tracking stock and sales.
+* **Armesa Home (Web):** Modern e-commerce interface built with **React & TypeScript**. [Live Demo](https://armesa.netlify.app/)
+* **StockMaster (Admin):** Inventory management dashboard for tracking stock and sales. [Live Demo](https://stockmasterdesktopapp.netlify.app/)
 
 #### 🏢 [Corporate Web Solutions](https://github.com/muhammedsafatur/akcag1page)
 > *High-performance corporate landing pages focusing on SEO and Speed.*
 
-* **Tech:** **Next.js**, **TypeScript**, **Tailwind CSS**.
+* **Tech:** **Next.js**,**React+Vite**, **TypeScript**, **Tailwind CSS**.
 * **Live Demos:** [Akçağ](https://akcag.netlify.app/) | [Züccaciye](https://zuccaciye.netlify.app/)
 
 #### 🏥 [Hospital Appointment API](https://github.com/muhammedsafatur/HastaneRandevuSistemiAPI)
